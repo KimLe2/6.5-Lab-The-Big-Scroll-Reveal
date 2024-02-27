@@ -1,1 +1,10 @@
-/* Add screen styles below */
+h1 {
+    font-size: 36px;
+    margin-left: 500px;
+  }
+
+img {
+margin-left: 500px;
+margin-right: 500px;
+padding-bottom: 30px;
+}
